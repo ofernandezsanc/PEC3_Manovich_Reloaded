@@ -6,9 +6,7 @@
 Autor: Óscar Rafael Fernández Sánchez
 
 
-Fecha: 
-
-12/05/2025
+Fecha: 12/05/2025
 
 
 
