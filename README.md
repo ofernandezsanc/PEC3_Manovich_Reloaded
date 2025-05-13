@@ -40,7 +40,7 @@ Xbox Cloud Gaming es un servicio de suscripción (parte de Xbox Game Pass Ultima
 En conjunto, Xbox Cloud Gaming ejemplifica la hibridación de medios al convertir el producto de software en un servicio cultural dinámico, anclado en infraestructuras de la nube y gobernado por principios algorítmicos de automatización, transcoding y variabilidad.  
 
 ## Conclusión
-
+.....
 
 ## Re-descubriendo la hibridacion: Caso 2
 
