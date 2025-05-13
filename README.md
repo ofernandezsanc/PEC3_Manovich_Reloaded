@@ -17,7 +17,8 @@ Fecha: 12/05/2025
 
 
 ## Re-descubriendo la hibridacion: Caso 1
-https://media.comunidadxbox.com/wp-content/uploads/2021/02/project-xcloud-microsoft.jpg
+![project-xcloud-microsoft](https://github.com/user-attachments/assets/4bf47907-99fd-47df-b3bd-6d085703eca7)
+
 ## Caso 1: Xbox Cloud Gaming
 
 ### Descripción
@@ -42,6 +43,9 @@ En conjunto, Xbox Cloud Gaming ejemplifica la hibridación de medios al converti
 
 
 ## Re-descubriendo la hibridacion: Caso 2
+
+![MIDJOURNEY](https://github.com/user-attachments/assets/7b30b65f-668e-4fae-9426-48eb31ca94c1)
+
 
 ## Caso 2: Midjourney en Discord
 
