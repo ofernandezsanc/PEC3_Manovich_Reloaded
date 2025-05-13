@@ -8,6 +8,12 @@ Autor: Óscar Rafael Fernández Sánchez
 
 Fecha: 12/05/2025
 
+## Índice
+- [Planteamiento](#planteamiento)
+- [Caso 1: Xbox Cloud Gaming](#caso-1-xbox-cloud-gaming)
+- [Caso 2: Midjourney en Discord](#caso-2-midjourney-en-discord)
+- [Conclusión y propuesta editorial](#conclusión-y-propuesta-editorial)
+- [Referencias y Bibliografía](#referencias-y-bibliografía)
 
 
 ## Planteamiento
