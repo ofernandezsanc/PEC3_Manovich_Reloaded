@@ -17,7 +17,7 @@ Fecha: 12/05/2025
 
 
 ## Re-descubriendo la hibridacion: Caso 1
-
+https://media.comunidadxbox.com/wp-content/uploads/2021/02/project-xcloud-microsoft.jpg
 ## Caso 1: Xbox Cloud Gaming
 
 ### Descripción
@@ -38,6 +38,7 @@ Xbox Cloud Gaming es un servicio de suscripción (parte de Xbox Game Pass Ultima
 
 En conjunto, Xbox Cloud Gaming ejemplifica la hibridación de medios al convertir el producto de software en un servicio cultural dinámico, anclado en infraestructuras de la nube y gobernado por principios algorítmicos de automatización, transcoding y variabilidad.  
 
+## Conclusión
 
 
 ## Re-descubriendo la hibridacion: Caso 2
@@ -67,7 +68,9 @@ Midjourney es un bot de generación de imágenes basado en IA accesible exclusiv
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Midjourney. https://es.wikipedia.org/wiki/Midjourney
+* Midjourney. https://docs.midjourney.com/hc/en-us/articles/32894521590669-Discord-Command-List
 
 
 ----
