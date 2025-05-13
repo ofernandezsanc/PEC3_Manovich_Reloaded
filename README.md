@@ -30,6 +30,8 @@ Fecha: 12/05/2025
 ### Descripción
 Xbox Cloud Gaming es un servicio de suscripción (parte de Xbox Game Pass Ultimate) que permite jugar a títulos de última generación directamente en la nube, sin necesidad de descargar ni instalar nada en el dispositivo local. Funciona sobre cualquier pantalla con conexión a Internet —smartphones, tablets, PCs, televisores o incluso otras consolas—, pues el juego se renderiza en centros de datos de Microsoft y se transmite al instante como un flujo de vídeo interactivo.
 
+Azure, protocolos....[] y evolución histórica y de comparativas con otros servicios....
+
 ### Elementos de hibridación
 - **Automatización y transcoding**: el software del juego (motores gráficos Unity/Unreal) corre automáticamente en servidores remotos y, en tiempo real, se codifica (transcoding) en vídeo optimizado para cada ancho de banda.  
 - **Modularidad**: la arquitectura basada en microservicios desacopla la lógica de juego, el almacenamiento de partidas y las funciones de matchmaking, permitiendo actualizaciones continuas sin interrumpir la experiencia del usuario.  
