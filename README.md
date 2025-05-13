@@ -11,9 +11,9 @@ Fecha: 12/05/2025
 
 
 ## Planteamiento
-
-
-asdf
+.
+.
+.
 
 
 ## Re-descubriendo la hibridacion: Caso 1
