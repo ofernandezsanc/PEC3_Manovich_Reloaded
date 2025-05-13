@@ -72,9 +72,11 @@ Midjourney es un bot de generación de imágenes basado en IA accesible exclusiv
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* Midjourney. https://es.wikipedia.org/wiki/Midjourney
-* Midjourney. https://docs.midjourney.com/hc/en-us/articles/32894521590669-Discord-Command-List
+1. Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+2. Microsoft. “Xbox Cloud Gaming.” https://www.xbox.com/es-ES/xbox-game-pass/cloud-gaming
+3. Microsoft Docs. “Game Streaming over Azure.” https://docs.microsoft.com/…
+4. Midjourney. “Discord Command List.” https://docs.midjourney.com/…
+
 
 
 ----
