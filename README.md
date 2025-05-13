@@ -42,7 +42,27 @@ En conjunto, Xbox Cloud Gaming ejemplifica la hibridación de medios al converti
 
 ## Re-descubriendo la hibridacion: Caso 2
 
-asdfasdfasdf caso 2
+## Caso 2: Midjourney en Discord
+
+### Descripción
+Midjourney es un bot de generación de imágenes basado en IA accesible exclusivamente mediante Discord. Con el comando `/imagine <prompt>`, los usuarios envían descripciones textuales que el modelo de deep learning traduce en un grid de cuatro imágenes en segundos. Opciones de “upscale” (U) y “variations” (V), junto a parámetros de calidad, relación de aspecto y estilo, permiten refinar resultados sin salir del chat.
+
+### Elementos de hibridación
+- **Metamedia**: fusiona creación pictórica y fotográfica con algoritmos de IA, simulando medios previos y produciendo un nuevo espacio creativo texto–imagen.  
+- **Automatización**: todo el pipeline (interpretación del prompt, generación y renderizado) se ejecuta sin intervención manual.  
+- **Variabilidad**: controles de parámetro (`--stylize`, `--ar`, `--v`) y comandos de “reroll” generan infinitas versiones de un mismo concepto.  
+- **Modularidad**: cada prompt, cada imagen y cada interacción (votos, comentarios) actúa como módulo reutilizable en nuevos contextos.  
+- **Software como servicio**: funciona por suscripción en la nube, con distintos planes que gestionan acceso a GPU en “Fast” y “Relax” Mode, así como modo privado.  
+- **Interfaz social**: la integración en Discord convierte la creación en un ritual comunitario, donde la conversación y el crowdsourcing alimentan un repositorio vivo de conocimientos.
+
+### Análisis (bajo las “gafas de Manovich”)
+1. **Representación numérica**: el texto se convierte en vectores que el modelo traduce a matrices de píxeles, ejemplificando la digitalización de medios.  
+2. **Transcoding**: transforma un lenguaje natural en imágenes digitales, ilustrando la conversión y mezcla de códigos mediáticos.  
+3. **Automatización y variabilidad**: la generación instantánea de múltiples variaciones refleja estos dos principios fundamentales de Manovich.  
+4. **Modularidad colaborativa**: la estructura de canales, prompts e interacciones sociales configura un ecosistema modular de creación distribuida.  
+5. **Metamedia expandida**: Discord funciona como lienzo digital extensible, combinando texto, imagen y código de IA para gestar un nuevo medio.  
+6. **Nuevo lenguaje mediático**: la dinámica de co-creación y remix comunitario redefine la práctica artística tradicional y actualiza la noción de medio planteada por Manovich.
+
 
 
 ### Referencias y Bibliografía
