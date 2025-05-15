@@ -28,6 +28,12 @@ En El lenguaje de los nuevos medios y en Software toma el mando, Manovich descri
 ### Descripción
 Xbox Cloud Gaming es un servicio de suscripción (parte de Xbox Game Pass Ultimate) que permite jugar a títulos de última generación directamente en la nube, sin necesidad de descargar ni instalar nada en el dispositivo local. Funciona sobre cualquier pantalla con conexión a Internet —smartphones, tablets, PCs, televisores o incluso otras consolas—, pues el juego se renderiza en centros de datos de Microsoft y se transmite al instante como un flujo de vídeo interactivo.
 
+
+**Evolución histórica de Xbox Cloud Gaming
+Project xCloud se presentó por primera vez el 8 de octubre de 2018 en el blog de Microsoft, marcando el inicio de un ambicioso proyecto para llevar la experiencia Xbox a cualquier dispositivo mediante streaming.
+. Durante 2019 se lanzó la primera vista previa pública, permitiendo a los usuarios probar títulos como Gears 5 y Halo 5 en móviles Android mediante la app de Xbox Game Streaming GeekWire.
+. El 15 de septiembre de 2020, Microsoft integró oficialmente el servicio en Xbox Game Pass Ultimate, ampliando la disponibilidad a PC y consolas sin coste adicional para los suscriptores. En 2021 y 2022 se actualizaron los servidores a hardware basado en Xbox Series X y se añadió soporte web, alcanzando millones de usuarios en decenas de países.
+
 ### Elementos de hibridación
 - **Automatización y transcoding**: el software del juego (motores gráficos Unity/Unreal) corre automáticamente en servidores remotos y, en tiempo real, se codifica (transcoding) en vídeo optimizado para cada ancho de banda.  
 - **Modularidad**: la arquitectura basada en microservicios desacopla la lógica de juego, el almacenamiento de partidas y las funciones de matchmaking, permitiendo actualizaciones continuas sin interrumpir la experiencia del usuario.  
@@ -51,7 +57,8 @@ En conjunto, Xbox Cloud Gaming ejemplifica la hibridación de medios al converti
 ## Caso 2: Midjourney en Discord
 
 ### Descripción
-Midjourney es un bot de generación de imágenes basado en IA accesible exclusivamente mediante Discord. Con el comando `/imagine <prompt>`, los usuarios envían descripciones textuales que el modelo de deep learning traduce en un grid de cuatro imágenes en segundos. Opciones de “upscale” (U) y “variations” (V), junto a parámetros de calidad, relación de aspecto y estilo, permiten refinar resultados sin salir del chat.
+Midjourney debutó en beta abierta el 12 de julio de 2022 como un bot de Discord que convierte descripciones de texto en obras de arte mediante un avanzado modelo de difusión latente. En cuestión de meses superó el millón de imágenes generadas y vio crecer su comunidad de forma exponencial. A finales de 2022 lanzó la versión 4, con mejoras sustanciales en calidad y coherencia, y en 2023 presentó Midjourney V6, optimizando aún más la interpretación de los prompts y el nivel de detalle visual. Como bot de IA, Midjourney funciona únicamente dentro de Discord: al escribir  /imagine <tu prompt>: El sistema devuelve un grid de cuatro imágenes en segundos. Los botones “U” (upscale) y “V” (variations), junto con parámetros de calidad (`--q`), relación de aspecto (`--ar`) y estilo (`--stylize`), permiten refinar y personalizar los resultados sin salir de la ventana de chat.
+
 
 ### Elementos de hibridación
 - **Metamedia**: fusiona creación pictórica y fotográfica con algoritmos de IA, simulando medios previos y produciendo un nuevo espacio creativo texto–imagen.  
@@ -79,6 +86,13 @@ Midjourney es un bot de generación de imágenes basado en IA accesible exclusiv
 1. Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 2. Microsoft. “Xbox Cloud Gaming.” https://www.xbox.com/es-ES/xbox-game-pass/cloud-gaming
 3. Microsoft Docs. “Game Streaming over Azure.” [https://docs.microsoft.com/…](https://learn.microsoft.com/en-us/gaming/gdk/docs/services/fundamentals/live-xbl-overview)
-4. Midjourney. “Discord Command List.” https://docs.midjourney.com/hc/en-us/articles/32894521590669-Discord-Command-List
+4. Microsft Docs. "Historia de Xcloud" https://blogs.microsoft.com/blog/2018/10/08/project-xcloud-gaming-with-you-at-the-center
+5. Midjourney. “Discord Command List.” https://docs.midjourney.com/hc/en-us/articles/32894521590669-Discord-Command-List
+6. Midjourney. "Tutorial para Discord" https://docs.midjourney.com/hc/en-us/articles/32631709682573-Discord-Quick-Start
+7. Viso.ai. (2024) "Noticias acerca de generación de arte con IA "https://viso.ai/deep-learning/midjourney-stable-diffusion/
+8. Medium. (2023) "Noticias acerca midjourney" https://medium.com/%40oluigbopeter/how-midjourney-became-a-billion-dollar-ai-art-startup-in-less-than-a-year-416663997f77
 
+## Uso de IA
+
+Para la generación de ideas y búsqueda de documentación especifica se empleo el uso de modelo GPT-4 de OpenAI.
 
