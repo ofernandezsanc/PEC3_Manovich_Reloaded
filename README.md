@@ -28,8 +28,6 @@ En El lenguaje de los nuevos medios y en Software toma el mando, Manovich descri
 ### Descripción
 Xbox Cloud Gaming es un servicio de suscripción (parte de Xbox Game Pass Ultimate) que permite jugar a títulos de última generación directamente en la nube, sin necesidad de descargar ni instalar nada en el dispositivo local. Funciona sobre cualquier pantalla con conexión a Internet —smartphones, tablets, PCs, televisores o incluso otras consolas—, pues el juego se renderiza en centros de datos de Microsoft y se transmite al instante como un flujo de vídeo interactivo.
 
-
-**Evolución histórica de Xbox Cloud Gaming
 Project xCloud se presentó por primera vez el 8 de octubre de 2018 en el blog de Microsoft, marcando el inicio de un ambicioso proyecto para llevar la experiencia Xbox a cualquier dispositivo mediante streaming.
 . Durante 2019 se lanzó la primera vista previa pública, permitiendo a los usuarios probar títulos como Gears 5 y Halo 5 en móviles Android mediante la app de Xbox Game Streaming GeekWire.
 . El 15 de septiembre de 2020, Microsoft integró oficialmente el servicio en Xbox Game Pass Ultimate, ampliando la disponibilidad a PC y consolas sin coste adicional para los suscriptores. En 2021 y 2022 se actualizaron los servidores a hardware basado en Xbox Series X y se añadió soporte web, alcanzando millones de usuarios en decenas de países.
