@@ -12,14 +12,12 @@ Fecha: 12/05/2025
 - [Planteamiento](#planteamiento)
 - [Caso 1: Xbox Cloud Gaming](#caso-1-xbox-cloud-gaming)
 - [Caso 2: Midjourney en Discord](#caso-2-midjourney-en-discord)
-- [Conclusión y propuesta editorial](#conclusión)
+- [Conclusión](#conclusión)
 - [Referencias y Bibliografía](#referencias-y-bibliografía)
 
 
 ## Planteamiento
-.
-.
-.
+En El lenguaje de los nuevos medios y en Software toma el mando, Manovich describe cómo el software redefine nuestros medios. Hoy en día, esa hibridación ha dado lugar a ecosistemas digitales completamente nuevos que merecen un análisis independiente. Este ensayo explora dos casos contemporáneos de hibridación no abordados por Manovich: he elegido Xbox Cloud Gaming por su innovadora fusión entre streaming y gaming, y Midjourney en Discord por integrar IA generativa en una plataforma social que entrelaza comunicación y creación artística colaborativa. Ambos ejemplos reflejan cómo la nube y la inteligencia artificial están transformando nuestras prácticas culturales digitales.
 
 
 ## Re-descubriendo la hibridacion: Caso 1
@@ -29,8 +27,6 @@ Fecha: 12/05/2025
 
 ### Descripción
 Xbox Cloud Gaming es un servicio de suscripción (parte de Xbox Game Pass Ultimate) que permite jugar a títulos de última generación directamente en la nube, sin necesidad de descargar ni instalar nada en el dispositivo local. Funciona sobre cualquier pantalla con conexión a Internet —smartphones, tablets, PCs, televisores o incluso otras consolas—, pues el juego se renderiza en centros de datos de Microsoft y se transmite al instante como un flujo de vídeo interactivo.
-
-Azure, protocolos....[] y evolución histórica y de comparativas con otros servicios....
 
 ### Elementos de hibridación
 - **Automatización y transcoding**: el software del juego (motores gráficos Unity/Unreal) corre automáticamente en servidores remotos y, en tiempo real, se codifica (transcoding) en vídeo optimizado para cada ancho de banda.  
@@ -74,9 +70,7 @@ Midjourney es un bot de generación de imágenes basado en IA accesible exclusiv
 6. **Nuevo lenguaje mediático**: la dinámica de co-creación y remix comunitario redefine la práctica artística tradicional y actualiza la noción de medio planteada por Manovich.
 
 ## Conclusión
-## Conclusión
-
-- **Gracias a la exploración de Xbox Cloud Gaming y Midjourney en Discord “con las gafas de Manovich” he descubierto cuánto ha cambiado nuestra forma de crear y experimentar la cultura digital: ambos casos fusionan mundos que parecían distantes —el juego de alto rendimiento y el arte generativo— para ofrecer experiencias tan intuitivas como sorprendentes. Xbox Cloud Gaming elimina las barreras del hardware, regalándonos la sensación de un salón de videojuegos global al que podemos asomarnos desde cualquier pantalla, mientras que Midjourney introduce la colaboración creativa en tiempo real, convirtiendo cada prompt en una chispa colectiva que se alimenta de la curiosidad de la comunidad. Estas plataformas no son meras herramientas, sino ecosistemas vivos donde la técnica y la imaginación se entrelazan, recordándonos que la verdadera hibridación no está en la tecnología en sí, sino en cómo nos invita a repensar la autoría, el acceso y la pertenencia cultural. Al mirar hacia adelante, imagino un libro de Manovich escrito como un repositorio abierto, con demos en vivo y espacios de discusión donde cada lector pueda añadir su propio capítulo a la historia de los medios.  
+- Gracias a la exploración de Xbox Cloud Gaming y Midjourney en Discord “con las gafas de Manovich” he descubierto cuánto ha cambiado nuestra forma de crear y experimentar la cultura digital: ambos casos fusionan mundos que parecían distantes,el juego de alto rendimiento y el arte generativo, para ofrecer experiencias tan intuitivas como sorprendentes. Xbox Cloud Gaming elimina las barreras del hardware, regalándonos la sensación de un salón de videojuegos global al que podemos asomarnos desde cualquier pantalla, mientras que Midjourney introduce la colaboración creativa en tiempo real, convirtiendo cada prompt en una chispa colectiva que se alimenta de la curiosidad de la comunidad. Estas plataformas no son meras herramientas, sino ecosistemas vivos donde la técnica y la imaginación se entrelazan, recordándonos que la verdadera hibridación no está en la tecnología en sí, sino en cómo nos invita a repensar la autoría, el acceso y la pertenencia cultural. Al mirar hacia adelante, imagino un libro de Manovich escrito como un repositorio abierto, con demos en vivo y espacios de discusión donde cada lector pueda añadir su propio capítulo a la historia de los medios.  
  
 
 
@@ -85,9 +79,6 @@ Midjourney es un bot de generación de imágenes basado en IA accesible exclusiv
 1. Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 2. Microsoft. “Xbox Cloud Gaming.” https://www.xbox.com/es-ES/xbox-game-pass/cloud-gaming
 3. Microsoft Docs. “Game Streaming over Azure.” [https://docs.microsoft.com/…](https://learn.microsoft.com/en-us/gaming/gdk/docs/services/fundamentals/live-xbl-overview)
-4. Midjourney. “Discord Command List.” [https://docs.midjourney.com/…](https://docs.midjourney.com/hc/en-us/articles/32894521590669-Discord-Command-List)
-5. OpenAI. (2023). [Modelo de lenguaje]. (https://openai.com/product/gpt-4)
+4. Midjourney. “Discord Command List.” https://docs.midjourney.com/hc/en-us/articles/32894521590669-Discord-Command-List
 
 
-
-----
